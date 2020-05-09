@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/ExemploAula/.vs/ExemploAula/v16
+/ExemploAula/ExemploAula/bin/Debug/netcoreapp3.1
+/ExemploAula/ExemploAula/obj
