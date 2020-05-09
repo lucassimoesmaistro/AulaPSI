@@ -6,7 +6,7 @@ namespace ExemploAula
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Fala Pessoal");
             Console.ReadKey();
         }
     }
